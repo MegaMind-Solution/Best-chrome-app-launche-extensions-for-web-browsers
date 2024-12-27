@@ -32,14 +32,7 @@ We value your privacy and security. **Chrome App Launcher** requires additional 
 > [!NOTE]
 > This Api or Extension is currently not available on chrome web store].In future we try to take our products on chrome web store.
 
-**Screenshots**
 
-![Screenshot0]()
-![Screenshot1]()
-![Screenshot2]()
-![Screenshot3]()
-![Screenshot4]()
-![Screenshot5](https://drive.google.com/file/d/1TdHB2NhKBtR3Fb5tFM_3O3iwLa091N5p/view?usp=drive_link)
   
 **Intallation Guid**
 1. Open the browser 
